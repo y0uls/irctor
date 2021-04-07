@@ -1,0 +1,4 @@
+DataDirectory /var/lib/tor
+HiddenServiceDir /var/lib/tor
+HiddenServicePort 6667 127.0.0.1:6667
+Log notice stdout
